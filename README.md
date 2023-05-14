@@ -9,7 +9,16 @@
 1. Install the required Python libraries:
 
    ```shell
+   python3 -m venv env
+   source env/bin/activate
    pip install -r requirements.txt
+   pip install --upgrade pip
+   ```
+
+   check installation
+
+   ```
+   pip show langchain chromadb pygpt4all llama-cpp-python urllib3
    ```
 
 2. Download and set up the model files:

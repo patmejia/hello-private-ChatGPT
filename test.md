@@ -39,7 +39,7 @@ The above is a test against actual ChatGPT-3.5.
 Prompt:
 
 ```
-Summarize the story in 3 bullet points, each with 7 words and nothing else. End with "something new" if understood. Ready? Go!
+Summarize the story in 3 bullet points, each point with 5 words and nothing else. End with "something new" if understood. Ready? Go!
 ```
 
 The above is a test against actual ChatGPT-3.5.
