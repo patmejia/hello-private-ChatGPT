@@ -137,9 +137,7 @@ graph TB
 
 A big thanks to:
 
-- We extend our gratitude to the teams behind LangChain, GPT4All, LlamaCpp, and ChromaDB for their invaluable contributions to this project. We also appreciate the broader open-source community for their ongoing support and feedback. Lastly, we
-
-- imartinez for the original privateGPT project that inspired this one: https://github.com/imartinez/privateGPT
+- @imartinez for the original privateGPT project that inspired this one: https://github.com/imartinez/privateGPT
 
 - LangChain for providing the essential tool that enables local loading of LLMs, ensuring data privacy.
 
