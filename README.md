@@ -137,7 +137,7 @@ graph TB
 
 A big thanks to:
 
-- @imartinez for the original privateGPT project that inspired this one: https://github.com/imartinez/privateGPT
+- Ivan Martinez for the original privateGPT project that inspired this one: https://github.com/imartinez/privateGPT
 
 - LangChain for providing the essential tool that enables local loading of LLMs, ensuring data privacy.
 
@@ -145,6 +145,8 @@ A big thanks to:
 
 - LlamaCpp for the robust and efficient embedding models that convert text data into a format interpretable by the LLMs.
 
-- ChromaDB for their compact and performant key-value storage solution.
+- ChromaDB for their compact and performant key-value storage solution
+
+- `ggml` for the development around `llama.cpp`
 
 - Diagram It Plug-in for ChatGpt-4.
