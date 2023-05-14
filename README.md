@@ -1,4 +1,4 @@
-# hello-private-ChatGPT
+# Private-ChatGPT
 
 🔒 [PrivateGPT](https://github.com/imartinez/privateGPT) is a powerful tool that enables querying of documents using Large Language Models (LLMs) without the need for an internet connection. It ensures complete privacy as your data never leaves your local environment. This project is built upon the foundations of [LangChain](https://github.com/hwchase17/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), and [LlamaCpp](https://github.com/ggerganov/llama.cpp).
 
